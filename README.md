@@ -1,6 +1,6 @@
 # Recriando a tela do Instagram :camera: 
 
-![image-20210430163430039](C:\Users\Jamilly\AppData\Roaming\Typora\typora-user-images\image-20210430163430039.png)
+![Print](foto-insta.png)
 
 :eight_spoked_asterisk: Esse projeto foi baseado no Bootcamp Html Web Developer da plataforma Digital Innovation One.
 
